@@ -1,5 +1,5 @@
 # scb
-A little project I did in exploration, analysis, and structuring of data on political polls from Statistics Sweden (SCB)
+A little project I did in exploration, analysis, and structuring of data on political polls from Statistics Sweden (SCB).
 
 The code pulls JSON data from Statistics Sweden, prepares it, plots it, performs a VAR analysis, and finally adds the data to an SQL table. 
 
